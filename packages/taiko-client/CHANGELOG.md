@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.6.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-alethia-client-v1.5.0...taiko-alethia-client-v1.6.0) (2025-04-16)
+
+
+### Features
+
+* **taiko-client:** introduce `payloadQueue` for P2P gossip messages ([#19195](https://github.com/taikoxyz/taiko-mono/issues/19195)) ([f981f59](https://github.com/taikoxyz/taiko-mono/commit/f981f59b63b9cdb5a838d0bfa2ced8b295e56710))
+
+
+### Bug Fixes
+
+* **taiko-client:** fix an occasional `engine.SYNCING` error when receiving P2P preconf blocks ([#19262](https://github.com/taikoxyz/taiko-mono/issues/19262)) ([23e4bc5](https://github.com/taikoxyz/taiko-mono/commit/23e4bc5624247f5047fc9a7a6b254bef64385b56))
+
+
+### Chores
+
+* **protocol, taiko-client:** general typos fix ([#19272](https://github.com/taikoxyz/taiko-mono/issues/19272)) ([c22e86d](https://github.com/taikoxyz/taiko-mono/commit/c22e86df678537a3416f99c8fff98e08c51352ca))
+
 ## [1.5.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-alethia-client-v1.4.1...taiko-alethia-client-v1.5.0) (2025-04-11)
 
 
